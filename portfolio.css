@@ -1,0 +1,106 @@
+nav.up{
+	text-align:right;
+	font-size:20px;
+	background-color: RED;
+	background-size:50%;
+
+}
+header{
+		text-align:center;
+		font-size:40px;
+}
+body{
+	background-image: url("background3.jpg");
+	background-size: 100% 100%;
+	background-repeat: none;
+	font-family: Georgia, serif;
+}
+
+.dp{
+	zoom:20%;
+	float:right;
+	
+}
+
+.icons{
+	width:20px;
+	height: 20px;
+}
+
+nav.side{
+	float:left;
+}
+
+table{
+	border:5px;	
+
+	background-color: red;
+	padding: 20px;
+	height: 50%;
+
+}
+tr{
+	background-color: red;
+	font-size:15;
+	padding: 20px;;
+}
+th{
+	font-size: 30;
+}
+td{
+	font-size: 20;
+}
+
+section{
+	
+	padding-left: 200px;
+	padding-right: 100px;
+	font-size:20;
+	position: relative;
+	top:30px;
+
+}
+
+footer{
+	text-align:right;
+	clear:both;
+	padding-right: 100px;
+	padding-top: 20px;
+	font-weight:bold;
+}
+
+
+form{
+	position: relative;
+	left:100px;
+}
+#drop_mail {
+	position: relative;
+	left:100px;
+}
+
+a:link {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight:bold;
+}
+a:visited {
+    color: gold;
+    font-weight:bold;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: gold;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight:bold;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight:bold;
+}
+
